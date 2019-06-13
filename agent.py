@@ -531,7 +531,6 @@ def parse(string):
 # connect to socket
 def main():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    #s.close()
     port = int(sys.argv[2]) # Usage: ./agent.py -p (port)
     s.connect(('localhost', port))
     while True:
@@ -547,7 +546,6 @@ def main():
                 s.sendall((str(response) + "\n").encode())
 if __name__ == "__main__":
     main()
-
 
 
 #cmd= ./servt -p 12345 -x
