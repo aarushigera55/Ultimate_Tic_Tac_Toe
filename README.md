@@ -65,6 +65,8 @@ make all
 ./servt -x -o
 
 You should then see something like this:
+
+
  . . . | . . . | . . .
  . . . | . . . | . . .
  . . . | . . . | . . .
@@ -76,6 +78,8 @@ You should then see something like this:
  . . . | . . . | . . .
  . . . | . . . | . . .
  . . . | . . . | . . .
+ 
+ 
 
 next move for O ? 
 You can now play Nine-Board Tic-Tac-Toe against yourself, by typing a number for each move. 
