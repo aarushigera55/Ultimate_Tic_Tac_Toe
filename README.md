@@ -94,11 +94,15 @@ You should then see something like this:
 next move for O ? 
 You can now play Nine-Board Tic-Tac-Toe against yourself, by typing a number for each move. 
 The cells in each board are numbered 1, 2, 3, 4, 5, 6, 7, 8, 9 as follows:
-+-----+
++---+
+
 |1 2 3|
+
 |4 5 6|
+
 |7 8 9|
-+-----+
+
++---+
 
 To play against a computer player, you need to open another terminal window (and cd to the src directory).
 
