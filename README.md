@@ -68,7 +68,9 @@ You should then see something like this:
 
 
  . . . | . . . | . . .
+ 
  . . . | . . . | . . .
+ 
  . . . | . . . | . . .
  ----+---+----
  . . . | . . . | . . .
